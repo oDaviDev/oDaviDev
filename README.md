@@ -25,4 +25,3 @@
   
 </div>
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://i.pinimg.com/736x/f3/12/59/f3125927cc2c5a0351d7b1916cc46b6f.jpg">
